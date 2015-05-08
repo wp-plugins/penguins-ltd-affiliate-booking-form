@@ -1,0 +1,28 @@
+/* 
+    Document   : style
+    Created on : 15-Aug-2013, 14:18:17
+    Author     : The Coder
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+div.penguins-booking-page {
+    font-size: 14px;
+}
+
+div.penguins-booking-page code {
+    font-size: 14px !important;
+}
+
+input, textarea, select {
+    font-size: 14px;
+}
+
+.wp-core-ui .button, .wp-core-ui .button-primary, .wp-core-ui .button-secondary {
+    font-size: 17px;
+    height: 41px;
+}
+
+.penguins_booking_form_area {
+    
+}
