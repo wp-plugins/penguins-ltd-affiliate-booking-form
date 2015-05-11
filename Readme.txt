@@ -16,7 +16,7 @@ Penguins Ltd. Affiliate Booking Form is plugin which provide your visitors with 
 
 Penguins Ltd. Affiliate Booking Form is plugin which provide your visitors with a quick booking of private airport transfers in London. 
 
-Our booking form provides your visitors with an option of direct booking from your site, where your site will be registered as an agent and you will be rewarded by a 10% commission from each completed booking. Client is redirected to [Penguins Ltd. quotation page](http://penguinsltd.co.uk) quotation page with an agents reference ID and is automaticly assigned as an agents customer. 
+Our booking form provides your visitors with an option of direct booking from your site, where your site will be registered as an agent and you will be rewarded by a 10% commission from each completed booking. Client is redirected to [Penguins Ltd.](http://penguinsltd.co.uk) quotation page with an agents reference ID and is automaticly assigned as an agents customer. 
 
 Major advantages of Airport Transfer with Penguins Ltd.:
 
