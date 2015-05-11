@@ -61,3 +61,12 @@ Go to "Appearance > Widgets", drag the "Text" widget into the right side (sideba
 
 3. In a Custom Location
 To implement the form outside a post/page/widget area, you can do it by using the following PHP code: <?php echo do_shortcode('[penguins_booking_form]'); ?>
+
+
+== Screenshots ==
+
+1. Plugin placed in the left-sidebar widget area at our partner's site
+2. Location search has been solved by a synoptic drop down menu
+3. Plug-in settings page in WP admin
+4. To display the booking for simply add the text field with short code to any widget area
+5. Afetr choosing the locations and amount of passengers, client will be redirected (including your referral ID) to our quotation page 
